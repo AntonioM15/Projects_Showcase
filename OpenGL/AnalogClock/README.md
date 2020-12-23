@@ -3,6 +3,7 @@ Implemented in my fourth year of Computer Science
 
 
 Main Characteristics:
+    
     - The whole clock fits on the unit sphere
     
     - Regardless of the size of the window, the unit sphere touches the upper
